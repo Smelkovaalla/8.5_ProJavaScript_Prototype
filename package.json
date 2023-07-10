@@ -1,5 +1,5 @@
 {
-  "name": "5_prototype",
+  "name": "8.5_ProJavaScript_Prototype",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,14 @@
     "test": "jest",
     "coverage": "jest --coverage"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smelkovaalla/8.5_ProJavaScript_Prototype.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Smelkovaalla/8.5_ProJavaScript_Prototype/issues"
+  },
+  "homepage": "https://github.com/Smelkovaalla/8.5_ProJavaScript_Prototype#readme",
   "author": "",
   "license": "ISC",
   "devDependencies": {
